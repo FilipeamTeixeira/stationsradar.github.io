@@ -3,7 +3,7 @@
         "browser": true,
         "es2021": true
     },
-    "extends": "plugin:vue/vue3-essential",
+    "extends": "plugin:vue/vue2-essential",
     "parserOptions": {
         "ecmaVersion": "latest",
         "sourceType": "module"
