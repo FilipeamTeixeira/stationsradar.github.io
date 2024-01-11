@@ -1,6 +1,6 @@
 // vue.config.js
 module.exports = {
-    parallel: false,
+    lintOnSave: false,
     transpileDependencies: [
       'vuetify' // Add any other dependencies that need to be transpiled
     ],
